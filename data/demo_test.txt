@@ -1,5 +1,5 @@
 Chị O
-Minh B-PER
+Minh B-CDT
 ôm O
 đứa O
 con_gái O

@@ -1,0 +1,6 @@
+data
+dataset_ner
+.idea
+__pycache__
+**/*.pyc
+phobert-ner
